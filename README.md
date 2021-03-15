@@ -11,7 +11,7 @@
 
 <h3 align="centre"> Heroku </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/kartikrajofficial/KINGBOT-MUSIC-BOT)
 
 Get STRING_NAME from here only otherwise not work:
 
