@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 Music Bot 🎶</h1>
+<h1 align="centre">©️ KINGBOT Music Bot 🎶</h1>
 
 ## Requirements 📝
 
@@ -13,22 +13,24 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Get STRING_NAME from here:
+Get STRING_NAME from here only otherwise not work:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://repl.it/@subinps/getStringName)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Kartikpro/KINGBOT-MUSIC-STRING#main.py)
 
 ### Mandatory Vars.
 
 - Some Of The Mandatory Vars Are :-
    - `API_ID` :  Give API_ID of your Alternate Telegram Account.
    - `API_HASH` :  Give API_HASH of your Alternate Telegram Account.
-   - `STRING_NAME` :  Make a string session from [here](https://repl.it/@subinps/getStringName)
+   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@Kartikpro/KINGBOT-MUSIC-STRING#main.py)
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
 ## Credits
 
+- [KARTIKRAJOFFICIAL] (https://t.me/Kartikrajofficial)
 - [Roj](https://github.com/rojserbest): main developer
 - [Marvin](https://github.com/BlackStoneReborn): bug reporter
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
+- KRAKEN
